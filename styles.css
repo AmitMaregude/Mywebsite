@@ -74,12 +74,13 @@ hr{
     padding: 2rem;
 }
 .hero .hero-img{
-    max-width: 350px;
+    padding: 2rem;
+    max-width: 450px;
     display: block;
     margin: auto;
 }
 .hero .hero-heading{
-    padding-top: 1rem;
+    padding-top: 3rem;
     color: var(--hero-heading);
     text-align: center;
     
@@ -87,6 +88,7 @@ hr{
 .hero .heading-inverted{
     text-align: center;
     margin:-1rem;
+    margin-bottom: 4rem;
 }
 
 /** Sections**/
